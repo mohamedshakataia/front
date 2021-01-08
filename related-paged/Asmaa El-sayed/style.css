@@ -1,0 +1,97 @@
+               body
+		        {
+		        background:#e9f1f0
+		        }
+			
+		        .clear
+                {
+                 clear:both
+                }
+
+                .header 
+                {
+		        background:#39505a
+		        }
+
+
+		        .soc-icon
+		        {
+		        margin-right:500px
+		        }
+
+
+			
+                .zero
+		        {
+					
+		        margin:0 auto
+		        }
+			
+		        .product
+	            {
+		        text-align:right;
+		        color:blue;
+		        background-color:e9f1f0;
+		        padding-top:1px
+		        }
+
+
+		        h2
+		        {
+		        color:#088c94;
+		        font-size:75px;
+				
+		        }
+
+
+		        p
+	            {
+		        font-size:30px;
+		        margin:50px;
+		        color:#39505a;
+		        text-align:right;
+		        direction:rtl;
+		        }
+
+
+		        h3
+		        {
+		        font-size:35px;
+		        text-align:right;
+		        direction:rtl;
+                color:#088c94;
+		        margin-right:50px
+		        }
+
+
+		        h4
+		        {	
+                font-size:25px;
+                margin:0 auto
+		        }
+
+                .logo
+                {
+                float: right;
+                margin: 5px
+                }
+
+                 .com
+                 {
+                  margin: 0px 100px 0px 10px;
+                  font-size:large;
+                  color: #088c94;
+                  text-align:center;
+                  margin:30px;
+                  padding-right:40px
+                  }
+
+					
+		         .footer
+		         {
+		         background:#39505a;
+		         color:black;
+		         margin:0px
+	             }
+
+			
